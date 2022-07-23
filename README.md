@@ -16,4 +16,4 @@ review       | isi text review
 - Buat virtual environment -> python -m venv env
 - Activate environment -> source env/bin/activate (linux dan mac)
 - Install requirement.txt ->  pip install -r requirements.txt
-- Jalankan scraping_eprint_ums.py -> python run.py 
+- Jalankan -> python run.py 
