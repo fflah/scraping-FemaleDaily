@@ -1,6 +1,8 @@
 # Scraping Data Review femaledaily.com
 
-## Url page: https://reviews.femaledaily.com/products/moisturizer/sun-protection-44/emina/sun-protection-spf-30-pa?cat=&cat_id=0&age_range=&skin_type=&skin_tone=&skin_undertone=&hair_texture=&hair_type=&order=newest&page=1
+## Url page: 
+</br>
+https://reviews.femaledaily.com/products/moisturizer/sun-protection-44/emina/sun-protection-spf-30-pa?cat=&cat_id=0&age_range=&skin_type=&skin_tone=&skin_undertone=&hair_texture=&hair_type=&order=newest&page=1
 </br>
 
 ## Nomenklatur Dataset ##
@@ -16,4 +18,4 @@ review       | isi text review
 - Buat virtual environment -> python -m venv env
 - Activate environment -> source env/bin/activate (linux dan mac)
 - Install requirement.txt ->  pip install -r requirements.txt
-- Jalankan scraping_eprint_ums.py -> python run.py 
+- Jalankan -> python run.py 
